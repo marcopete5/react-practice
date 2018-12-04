@@ -1,0 +1,22 @@
+.open {
+    display: block;
+}
+
+.closed {
+    display: none;
+}
+
+.cardContainer {
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+}
+
+.show {
+    display: block;
+}
+
+.hide {
+    
+    display: none;
+}
